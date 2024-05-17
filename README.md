@@ -1,2 +1,2 @@
 # rem_autograd
-Relative entropy minimization using autograd tools.
+Relative entropy or KL divergence minimization using autograd tools.
